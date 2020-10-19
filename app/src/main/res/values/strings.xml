@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Letters Of The Alphabet Quiz</string>
+
+    <!--Question Text-->
+    <string name="questionOne">1. Which letter is a vowel?</string>
+    <string name="questionTwo">2. Which letter is not a vowel?</string>
+    <string name="questionThree">3. Which letter is a consonant?</string>
+    <string name="questionFour">4. Which letter is not a consonant?</string>
+    <string name="questionFive">5. Which letter does the insect below sound like?</string>
+
+
+    <!--Answer Text-->
+    <string name="questionOneAnswerOne"> A </string>
+    <string name="questionOneAnswerTwo"> F </string>
+    <string name="questionOneAnswerThree"> G </string>
+    <string name="questionOneAnswerFour"> X </string>
+
+    <string name="questionTwoAnswerOne"> E </string>
+    <string name="questionTwoAnswerTwo"> O </string>
+    <string name="questionTwoAnswerThree"> C </string>
+    <string name="questionTwoAnswerFour"> I </string>
+
+    <string name="questionThreeAnswerOne"> A </string>
+    <string name="questionThreeAnswerTwo"> O </string>
+    <string name="questionThreeAnswerThree"> U </string>
+    <string name="questionThreeAnswerFour"> H </string>
+
+    <string name="questionFourAnswerOne"> D </string>
+    <string name="questionFourAnswerTwo"> A </string>
+    <string name="questionFourAnswerThree"> G </string>
+    <string name="questionFourAnswerFour"> V </string>
+
+    <string name="questionFiveAnswerOne"> G </string>
+    <string name="questionFiveAnswerTwo"> U </string>
+    <string name="questionFiveAnswerThree"> B </string>
+    <string name="questionFiveAnswerFour"> A </string>
+
+
+    <!--Other Text-->
+    <string name="submitButton">Submit</string>
+    <string name="checkBox1">A is before B</string>
+    <string name="checkBox2">Z is before G</string>
+    <string name="checkBox3">H is before Y</string>
+    <string name="checkBox4">K is before F</string>
+
+    <string name="pictureDescription">It\'s a picture of a bee</string>
+    <string name="editViewText">What letter does the word \"see\" sound like?</string>
+    <string name="buttonText">Please select the true statements</string>
+</resources>
